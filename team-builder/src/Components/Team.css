@@ -1,0 +1,15 @@
+.team-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.team{
+    border: .4rem double Black;
+    width: 60vw;
+    padding: 1rem;
+    margin: 1rem;
+    background-color: cadetblue;
+    border-top-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+}
